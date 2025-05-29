@@ -1,2 +1,2 @@
-/paint-board/assets/* /assets/$1 301
-/paint-board/* /$1 301
+/paint-board/assets/(.*) /assets/$1 301
+/paint-board/(.*) /$1 301
